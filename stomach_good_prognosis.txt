@@ -1,0 +1,21 @@
+Gene	Description	Predicted Localization	mRNA (Cancer)	p value
+TIMM29	translocase of inner mitochondrial membrane 29	Intracellular	7.1	0.000000703
+CHAF1A	chromatin assembly factor 1 subunit A	Intracellular	6.5	0.00000415
+SLC52A3	solute carrier family 52 member 3	Membrane	8.7	0.00000551
+FAM83G	family with sequence similarity 83 member G	Intracellular	6.3	0.00000758
+TMEM259	transmembrane protein 259	"Intracellular,Membrane"	29.5	0.00000892
+BICDL1	BICD family like cargo adaptor 1	Intracellular	4.2	0.0000121
+PRR15L	proline rich 15 like	Intracellular	59.3	0.0000169
+TNFAIP2	TNF alpha induced protein 2	Intracellular	29.1	0.0000279
+MISP3	MISP family member 3	Intracellular	9.7	0.0000311
+C3orf62	chromosome 3 open reading frame 62	Intracellular	1.7	0.0000329
+EFNA4	ephrin A4	"Membrane,Secreted"	11.7	0.000036
+FAAH	fatty acid amide hydrolase	Membrane	7	0.0000363
+TTC9C	tetratricopeptide repeat domain 9C	Intracellular	6.6	0.0000415
+PICK1	protein interacting with PRKCA 1	Intracellular	4.9	0.0000526
+MAP2K2	mitogen-activated protein kinase kinase 2	Intracellular	22.6	0.0000543
+MEN1	menin 1	Intracellular	11.4	0.0000631
+TAF5	TATA-box binding protein associated factor 5	Intracellular	2.3	0.0000739
+DPP9	dipeptidyl peptidase 9	Intracellular	13.6	0.0000772
+TSEN54	tRNA splicing endonuclease subunit 54	Intracellular	9.4	0.0000778
+NCLN	nicalin	"Intracellular,Membrane"	32.7	0.0000882

@@ -1,0 +1,14 @@
+SO term	SO description	SO accession	Display term	IMPACT
+transcript_ablation	A feature ablation whereby the deleted region includes a transcript feature	SO:0001893	Transcript ablation	HIGH
+splice_acceptor_variant	A splice variant that changes the 2 base region at the 3' end of an intron	SO:0001574	Splice acceptor variant	HIGH
+splice_donor_variant	A splice variant that changes the 2 base region at the 5' end of an intron	SO:0001575	Splice donor variant	HIGH
+stop_gained	"A sequence variant whereby at least one base of a codon is changed, resulting in a premature stop codon, leading to a shortened transcript"	SO:0001587	Stop gained	HIGH
+frameshift_variant	"A sequence variant which causes a disruption of the translational reading frame, because the number of nucleotides inserted or deleted is not a multiple of three"	SO:0001589	Frameshift variant	HIGH
+stop_lost	"A sequence variant where at least one base of the terminator codon (stop) is changed, resulting in an elongated transcript"	SO:0001578	Stop lost	HIGH
+start_lost	A codon variant that changes at least one base of the canonical start codo	SO:0002012	Start lost	HIGH
+transcript_amplification	A feature amplification of a region containing a transcript	SO:0001889	Transcript amplification	HIGH
+inframe_insertion	An inframe non synonymous variant that inserts bases into in the coding sequenc	SO:0001821	Inframe insertion	MODERATE
+inframe_deletion	An inframe non synonymous variant that deletes bases from the coding sequenc	SO:0001822	Inframe deletion	MODERATE
+missense_variant	"A sequence variant, that changes one or more bases, resulting in a different amino acid sequence but where the length is preserved"	SO:0001583	Missense variant	MODERATE
+protein_altering_variant	A sequence_variant which is predicted to change the protein encoded in the coding sequence	SO:0001818	Protein altering variant	MODERATE
+regulatory_region_ablation	A feature ablation whereby the deleted region includes a regulatory region	SO:0001894	Regulatory region ablation	MODERATE
